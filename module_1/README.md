@@ -57,4 +57,4 @@ GitHub Desktop - https://desktop.github.com/
 
 https://github.com/Vitjk/devops4
 
-[logo](./github_logo.png)
+![logo](./github_logo.png)
