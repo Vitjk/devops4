@@ -52,3 +52,9 @@ Jira par Agile un DevOps - https://www.atlassian.com/agile/devops
 
 ! Tiem kuri nav pieraduši strādāt ar OS termināliem uzstādīt papildus:
 GitHub Desktop - https://desktop.github.com/
+
+**Viktors Bazinovs**
+
+https://github.com/Vitjk/devops4
+
+[logo](github_logo.png)
